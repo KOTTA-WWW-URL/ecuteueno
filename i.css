@@ -209,6 +209,7 @@ body {
 }
 body {
     color:#ffffa9
+    -webkit-text-size-adjust: 100%;
 }
 
 
@@ -265,3 +266,5 @@ p {
 h3 {
     color:#000000
 }
+
+
